@@ -29,3 +29,8 @@ Key Skills Demonstrated
 AI Governance & Risk Management
 Third-Party Vendor Risk Management (Experience from T-Mobile Cybersecurity Ops)
 Legal & Compliance Process Implementation (Experience from The Coca-Cola Company Legal Tech)
+
+## Features (2025 Update)
+1. Flags specific AIGP-relevant terms.
+2. Assigns risk levels (Very High to Low).
+3. Exports a structured CSV audit report for legal/compliance teams.
