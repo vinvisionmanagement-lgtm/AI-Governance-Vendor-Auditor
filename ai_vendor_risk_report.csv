@@ -1,0 +1,4 @@
+Term Found,Risk Level,Recommendation,Date Flagged
+BAA,High,Requires specialized BAA/Addendum to ensure regulatory alignment.,2025-12-22
+PHI,Medium,Standard operational oversight required; verify data encryption methods.,2025-12-22
+Indemnification,Very High,Critical: Do not sign without legal review. Add specific AI indemnification clauses.,2025-12-22
